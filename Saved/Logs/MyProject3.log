@@ -3260,3 +3260,458 @@ FPackageName: Skipped package /Game/UnderwaterGameAssets/Fisk/Fisk_rød_Sprite h
 [2025.03.05-12.01.11:545][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.05-12.01.11:545][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.05-12.01.11:545][397]AssetCheck: /Game/UI/W_Battery Validating asset
+[2025.03.05-12.06.41:735][139]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.05-12.06.57:256][731]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2025.03.05-12.07.11:535][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5884.816406
+[2025.03.05-12.07.11:731][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-12.07.11:731][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5884.999512, Update Interval: 330.976898
+[2025.03.05-12.08.49:921][908]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Graphics/Widgets/Penger_Sprite.Penger_Sprite
+[2025.03.05-12.08.49:924][908]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.03.05-12.08.50:270][908]LogSlate: Took 0.011733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.05-12.11.05:840][193]LogSlate: Window 'Create Blueprint' being destroyed
+[2025.03.05-12.11.12:735][348]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.05-12.11.12:751][348]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.05-12.11.12:767][348]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.05-12.11.12:822][349]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.05-12.11.22:307][845]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_penger
+[2025.03.05-12.11.22:317][845]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.05-12.11.23:903][918]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Graphics/Widgets/BP_penger.BP_penger
+[2025.03.05-12.11.23:904][918]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.03.05-12.13.14:836][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6248.132812
+[2025.03.05-12.13.15:039][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-12.13.15:039][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6248.315430, Update Interval: 350.815155
+[2025.03.05-12.14.03:034][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.14.03:238][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Graphics/Widgets/BP_penger] ([2] browsable assets)...
+[2025.03.05-12.14.03:238][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Widgets/BP_penger]
+[2025.03.05-12.14.03:238][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Widgets/BP_penger" FILE="../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset" SILENT=true
+[2025.03.05-12.14.03:248][230]LogSavePackage: Moving output files for package: /Game/Graphics/Widgets/BP_penger
+[2025.03.05-12.14.03:248][230]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/BP_penger8FDE8B504D1F5E21CD073D84114B1891.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset'
+[2025.03.05-12.14.03:281][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 246.666 ms (total: 9.77 sec)
+[2025.03.05-12.14.03:396][230]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.14.03:396][230]LogContentValidation: Enabled validators:
+[2025.03.05-12.14.03:396][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.14.03:396][230]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.14.03:396][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.14.03:396][230]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.14.03:396][230]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.14.03:396][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.14.03:396][230]AssetCheck: /Game/Graphics/Widgets/BP_penger Validating asset
+[2025.03.05-12.16.19:867][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.16.19:964][153]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Graphics/Widgets/BP_penger] ([2] browsable assets)...
+[2025.03.05-12.16.19:964][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Widgets/BP_penger]
+[2025.03.05-12.16.19:964][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Widgets/BP_penger" FILE="../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset" SILENT=true
+[2025.03.05-12.16.19:968][153]LogSavePackage: Moving output files for package: /Game/Graphics/Widgets/BP_penger
+[2025.03.05-12.16.19:969][153]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/BP_pengerF7C9C86445756F8FEFE4819EB0741298.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset'
+[2025.03.05-12.16.19:981][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.638 ms (total: 9.88 sec)
+[2025.03.05-12.16.20:115][153]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.16.20:116][153]LogContentValidation: Enabled validators:
+[2025.03.05-12.16.20:116][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.16.20:116][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.16.20:116][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.16.20:116][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.16.20:116][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.16.20:116][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.16.20:116][153]AssetCheck: /Game/Graphics/Widgets/BP_penger Validating asset
+[2025.03.05-12.16.58:065][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.16.58:266][ 13]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Graphics/Widgets/BP_penger] ([2] browsable assets)...
+[2025.03.05-12.16.58:266][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Widgets/BP_penger]
+[2025.03.05-12.16.58:266][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Widgets/BP_penger" FILE="../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset" SILENT=true
+[2025.03.05-12.16.58:275][ 13]LogSavePackage: Moving output files for package: /Game/Graphics/Widgets/BP_penger
+[2025.03.05-12.16.58:276][ 13]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/BP_penger6C0F184B4B860E5B276969A4273450A8.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset'
+[2025.03.05-12.16.58:290][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.075 ms (total: 10.1 sec)
+[2025.03.05-12.16.58:400][ 13]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.16.58:400][ 13]LogContentValidation: Enabled validators:
+[2025.03.05-12.16.58:400][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.16.58:400][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.16.58:400][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.16.58:400][ 13]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.16.58:400][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.16.58:400][ 13]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.16.58:400][ 13]AssetCheck: /Game/Graphics/Widgets/BP_penger Validating asset
+[2025.03.05-12.16.58:710][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.16.58:964][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.05-12.16.58:975][ 30]LogSavePackage: Moving output files for package: /Game/Level/Map_UnderwaterGame
+[2025.03.05-12.16.58:976][ 30]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/Map_UnderwaterGame331CA8604C55D8E98C19868B8F295D18.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Level/Map_UnderwaterGame.umap'
+[2025.03.05-12.16.58:993][ 30]LogFileHelpers: Saving map 'Map_UnderwaterGame' took 0.172
+[2025.03.05-12.16.59:033][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 322.693 ms (total: 10.4 sec)
+[2025.03.05-12.16.59:226][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.16.59:226][ 30]LogContentValidation: Enabled validators:
+[2025.03.05-12.16.59:226][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.16.59:226][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.16.59:226][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.16.59:226][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.16.59:226][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.16.59:226][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.16.59:226][ 30]AssetCheck: /Game/Level/Map_UnderwaterGame Validating asset
+[2025.03.05-12.19.33:132][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.19.33:239][  3]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Graphics/Widgets/BP_penger] ([2] browsable assets)...
+[2025.03.05-12.19.33:240][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Widgets/BP_penger]
+[2025.03.05-12.19.33:240][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Widgets/BP_penger" FILE="../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset" SILENT=true
+[2025.03.05-12.19.33:244][  3]LogSavePackage: Moving output files for package: /Game/Graphics/Widgets/BP_penger
+[2025.03.05-12.19.33:246][  3]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/BP_pengerA82EC2004DEA9866F06D09987F16928A.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset'
+[2025.03.05-12.19.33:258][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.061 ms (total: 10.5 sec)
+[2025.03.05-12.19.33:383][  3]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.19.33:383][  3]LogContentValidation: Enabled validators:
+[2025.03.05-12.19.33:383][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.19.33:383][  3]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.19.33:383][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.19.33:383][  3]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.19.33:383][  3]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.19.33:383][  3]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.19.33:383][  3]AssetCheck: /Game/Graphics/Widgets/BP_penger Validating asset
+[2025.03.05-12.19.38:166][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6631.440430
+[2025.03.05-12.19.39:125][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-12.19.39:125][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6632.097656, Update Interval: 338.367249
+[2025.03.05-12.21.18:779][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.21.18:898][ 67]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Graphics/Widgets/BP_penger] ([2] browsable assets)...
+[2025.03.05-12.21.18:898][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Widgets/BP_penger]
+[2025.03.05-12.21.18:898][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Widgets/BP_penger" FILE="../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset" SILENT=true
+[2025.03.05-12.21.18:904][ 67]LogSavePackage: Moving output files for package: /Game/Graphics/Widgets/BP_penger
+[2025.03.05-12.21.18:905][ 67]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/BP_penger54404250457820DB0296D4B85F38476D.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset'
+[2025.03.05-12.21.18:916][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.352 ms (total: 10.6 sec)
+[2025.03.05-12.21.19:060][ 67]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.21.19:060][ 67]LogContentValidation: Enabled validators:
+[2025.03.05-12.21.19:060][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.21.19:060][ 67]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.21.19:060][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.21.19:060][ 67]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.21.19:060][ 67]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.21.19:060][ 67]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.21.19:060][ 67]AssetCheck: /Game/Graphics/Widgets/BP_penger Validating asset
+[2025.03.05-12.22.26:396][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.22.26:520][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Graphics/Widgets/BP_penger] ([2] browsable assets)...
+[2025.03.05-12.22.26:520][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Widgets/BP_penger]
+[2025.03.05-12.22.26:520][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Widgets/BP_penger" FILE="../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset" SILENT=true
+[2025.03.05-12.22.26:525][405]LogSavePackage: Moving output files for package: /Game/Graphics/Widgets/BP_penger
+[2025.03.05-12.22.26:526][405]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/BP_penger6D60C326480A171EB8B27988C71726ED.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset'
+[2025.03.05-12.22.26:539][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.415 ms (total: 10.8 sec)
+[2025.03.05-12.22.26:772][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.22.26:772][405]LogContentValidation: Enabled validators:
+[2025.03.05-12.22.26:772][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.22.26:772][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.22.26:772][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.22.26:772][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.22.26:772][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.22.26:772][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.22.26:772][405]AssetCheck: /Game/Graphics/Widgets/BP_penger Validating asset
+[2025.03.05-12.22.38:737][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.22.38:830][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Graphics/Widgets/BP_penger] ([2] browsable assets)...
+[2025.03.05-12.22.38:830][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphics/Widgets/BP_penger]
+[2025.03.05-12.22.38:830][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Widgets/BP_penger" FILE="../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset" SILENT=true
+[2025.03.05-12.22.38:835][618]LogSavePackage: Moving output files for package: /Game/Graphics/Widgets/BP_penger
+[2025.03.05-12.22.38:835][618]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/BP_pengerB85E82094D1ED9CED85B419A7953473C.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Graphics/Widgets/BP_penger.uasset'
+[2025.03.05-12.22.38:849][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.510 ms (total: 10.9 sec)
+[2025.03.05-12.22.38:965][618]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.22.38:965][618]LogContentValidation: Enabled validators:
+[2025.03.05-12.22.38:965][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.22.38:965][618]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.22.38:965][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.22.38:965][618]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.22.38:965][618]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.22.38:965][618]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.22.38:965][618]AssetCheck: /Game/Graphics/Widgets/BP_penger Validating asset
+[2025.03.05-12.22.39:375][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.22.39:552][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.05-12.22.39:561][642]LogSavePackage: Moving output files for package: /Game/Level/Map_UnderwaterGame
+[2025.03.05-12.22.39:562][642]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/Map_UnderwaterGameF74FC0534D010B185A38D48CF2E30DBC.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Level/Map_UnderwaterGame.umap'
+[2025.03.05-12.22.39:576][642]LogFileHelpers: Saving map 'Map_UnderwaterGame' took 0.076
+[2025.03.05-12.22.39:593][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.703 ms (total: 11.1 sec)
+[2025.03.05-12.22.39:689][642]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.22.39:689][642]LogContentValidation: Enabled validators:
+[2025.03.05-12.22.39:689][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.22.39:689][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.22.39:689][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.22.39:689][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.22.39:689][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.22.39:689][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.22.39:690][642]AssetCheck: /Game/Level/Map_UnderwaterGame Validating asset
+[2025.03.05-12.23.00:131][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-12.23.00:141][628]LogPlayLevel: [PlayLevel] Compiling BP_penger before play...
+[2025.03.05-12.23.00:215][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.03.05-12.23.00:218][628]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (1 blueprints)
+[2025.03.05-12.23.00:218][628]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Map_UnderwaterGame
+[2025.03.05-12.23.00:221][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002569s)
+[2025.03.05-12.23.00:221][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Map_UnderwaterGame.Map_UnderwaterGame to /Game/Level/UEDPIE_0_Map_UnderwaterGame.Map_UnderwaterGame (0.002618s)
+[2025.03.05-12.23.00:264][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.05-12.23.00:265][628]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_UnderwaterGame
+[2025.03.05-12.23.00:267][628]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2025.03.05-12.23.00:267][628]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.03.05-12.23.00:267][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-12.23.00:267][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-12.23.00:267][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-12.23.00:267][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-12.23.00:267][628]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.05-12.23.00:267][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-12.23.00:267][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.05-12.23.00:267][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-12.23.00:267][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-12.23.00:267][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-12.23.00:267][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-12.23.00:270][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-12.23.00:387][628]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-12.23.00:387][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-12.23.00:388][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-12.23.00:388][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-12.23.00:390][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.03.05-12.23.00:390][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.03.05-12.23.00:394][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.03.05-12.23.00:394][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.03.05-12.23.00:394][628]LogInit: FAudioDevice initialized with ID 20.
+[2025.03.05-12.23.00:394][628]LogAudio: Display: Audio Device (ID: 20) registered with world 'Map_UnderwaterGame'.
+[2025.03.05-12.23.00:394][628]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.03.05-12.23.00:404][628]LogLoad: Game class is 'GM_SideScroller_C'
+[2025.03.05-12.23.00:406][628]LogWorld: Bringing World /Game/Level/UEDPIE_0_Map_UnderwaterGame.Map_UnderwaterGame up for play (max tick rate 60) at 2025.03.05-13.23.00
+[2025.03.05-12.23.00:406][628]LogWorld: Bringing up level for play took: 0.001613
+[2025.03.05-12.23.00:409][628]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.03.05-12.23.00:414][628]PIE: Server logged in
+[2025.03.05-12.23.00:415][628]PIE: Play in editor total start time 0,274 seconds.
+[2025.03.05-12.23.00:424][628]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'BatteryTextures' of length 8 in '/Game/UI/W_Battery.W_Battery_C'!
+[2025.03.05-12.23.00:424][628]LogScript: Warning: Script Msg called by: W_Battery_C /Engine/Transient.UnrealEdEngine_0:GameInstance_18.WB_HUD_C_0.WidgetTree_0.W_Battery
+[2025.03.05-12.23.20:165][791]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'BatteryTextures' of length 8 in '/Game/UI/W_Battery.W_Battery_C'!
+[2025.03.05-12.23.20:165][791]LogScript: Warning: Script Msg called by: W_Battery_C /Engine/Transient.UnrealEdEngine_0:GameInstance_18.WB_HUD_C_0.WidgetTree_0.W_Battery
+[2025.03.05-12.23.20:598][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-12.23.20:598][814]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Map_UnderwaterGame
+[2025.03.05-12.23.20:599][814]LogWorld: UWorld::CleanupWorld for Map_UnderwaterGame, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-12.23.20:599][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-12.23.20:604][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-12.23.20:609][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-12.23.20:683][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-12.23.20:683][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.03.05-12.23.20:683][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.05-12.23.20:685][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.05-12.23.20:701][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.05-12.23.20:786][815]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.03.05-12.23.42:590][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Graphics/Widgets/BP_penger.BP_penger_C
+[2025.03.05-12.23.42:590][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Graphics/Widgets/BP_penger.BP_penger_C
+[2025.03.05-12.23.42:595][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Graphics/Widgets/BP_penger.BP_penger as actor: BP_penger_C /Game/Level/Map_UnderwaterGame.Map_UnderwaterGame:PersistentLevel.BP_penger_C_0
+[2025.03.05-12.23.42:598][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Graphics/Widgets/BP_penger.BP_penger as actor: BP_penger_C /Game/Level/Map_UnderwaterGame.Map_UnderwaterGame:PersistentLevel.BP_penger_C_0
+[2025.03.05-12.23.43:683][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.05-12.23.43:685][112]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.03.05-12.23.43:692][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Graphics/Widgets/BP_penger.BP_penger_C
+[2025.03.05-12.23.43:692][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Graphics/Widgets/BP_penger.BP_penger_C
+[2025.03.05-12.23.43:695][112]LogActorFactory: Actor Factory spawned Blueprint /Game/Graphics/Widgets/BP_penger.BP_penger as actor: BP_penger_C /Game/Level/Map_UnderwaterGame.Map_UnderwaterGame:PersistentLevel.BP_penger_C_1
+[2025.03.05-12.23.43:698][112]LogActorFactory: Actor Factory spawned Blueprint /Game/Graphics/Widgets/BP_penger.BP_penger as actor: BP_penger_C /Game/Level/Map_UnderwaterGame.Map_UnderwaterGame:PersistentLevel.BP_penger_C_1
+[2025.03.05-12.23.49:525][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.23.49:777][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.05-12.23.49:785][432]LogSavePackage: Moving output files for package: /Game/Level/Map_UnderwaterGame
+[2025.03.05-12.23.49:787][432]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/Map_UnderwaterGame3789D74F455DCE24D2C44DAA76DC0417.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Level/Map_UnderwaterGame.umap'
+[2025.03.05-12.23.49:799][432]LogFileHelpers: Saving map 'Map_UnderwaterGame' took 0.093
+[2025.03.05-12.23.49:841][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 314.948 ms (total: 11.4 sec)
+[2025.03.05-12.23.49:990][432]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.23.49:990][432]LogContentValidation: Enabled validators:
+[2025.03.05-12.23.49:990][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.23.49:990][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.23.49:990][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.23.49:990][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.23.49:990][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.23.49:991][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.23.49:991][432]AssetCheck: /Game/Level/Map_UnderwaterGame Validating asset
+[2025.03.05-12.23.51:140][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.23.51:318][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.05-12.23.51:328][496]LogSavePackage: Moving output files for package: /Game/Level/Map_UnderwaterGame
+[2025.03.05-12.23.51:329][496]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/Map_UnderwaterGame1A55EC7248B6D755AE5F07BB6E9D2163.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Level/Map_UnderwaterGame.umap'
+[2025.03.05-12.23.51:341][496]LogFileHelpers: Saving map 'Map_UnderwaterGame' took 0.068
+[2025.03.05-12.23.51:377][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.619 ms (total: 11.7 sec)
+[2025.03.05-12.23.51:495][496]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.23.51:495][496]LogContentValidation: Enabled validators:
+[2025.03.05-12.23.51:495][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.23.51:495][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.23.51:495][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.23.51:495][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.23.51:495][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.23.51:495][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.23.51:495][496]AssetCheck: /Game/Level/Map_UnderwaterGame Validating asset
+[2025.03.05-12.23.52:319][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-12.23.52:329][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-12.23.52:358][543]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Map_UnderwaterGame
+[2025.03.05-12.23.52:370][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011367s)
+[2025.03.05-12.23.52:370][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Map_UnderwaterGame.Map_UnderwaterGame to /Game/Level/UEDPIE_0_Map_UnderwaterGame.Map_UnderwaterGame (0.011479s)
+[2025.03.05-12.23.52:469][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2025.03.05-12.23.52:472][543]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_UnderwaterGame
+[2025.03.05-12.23.52:473][543]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2025.03.05-12.23.52:474][543]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.03.05-12.23.52:474][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-12.23.52:474][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-12.23.52:474][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-12.23.52:474][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-12.23.52:474][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.05-12.23.52:474][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-12.23.52:474][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.05-12.23.52:474][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-12.23.52:474][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-12.23.52:474][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-12.23.52:474][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-12.23.52:476][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-12.23.52:579][543]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-12.23.52:580][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-12.23.52:580][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-12.23.52:580][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-12.23.52:581][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.03.05-12.23.52:581][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.03.05-12.23.52:584][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.03.05-12.23.52:584][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.03.05-12.23.52:585][543]LogInit: FAudioDevice initialized with ID 21.
+[2025.03.05-12.23.52:585][543]LogAudio: Display: Audio Device (ID: 21) registered with world 'Map_UnderwaterGame'.
+[2025.03.05-12.23.52:585][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.05-12.23.52:590][543]LogLoad: Game class is 'GM_SideScroller_C'
+[2025.03.05-12.23.52:592][543]LogWorld: Bringing World /Game/Level/UEDPIE_0_Map_UnderwaterGame.Map_UnderwaterGame up for play (max tick rate 60) at 2025.03.05-13.23.52
+[2025.03.05-12.23.52:592][543]LogWorld: Bringing up level for play took: 0.001741
+[2025.03.05-12.23.52:596][543]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.05-12.23.52:600][543]PIE: Server logged in
+[2025.03.05-12.23.52:601][543]PIE: Play in editor total start time 0,273 seconds.
+[2025.03.05-12.23.52:607][543]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'BatteryTextures' of length 8 in '/Game/UI/W_Battery.W_Battery_C'!
+[2025.03.05-12.23.52:607][543]LogScript: Warning: Script Msg called by: W_Battery_C /Engine/Transient.UnrealEdEngine_0:GameInstance_19.WB_HUD_C_0.WidgetTree_0.W_Battery
+[2025.03.05-12.24.00:781][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-12.24.00:781][ 11]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Map_UnderwaterGame
+[2025.03.05-12.24.00:782][ 11]LogWorld: UWorld::CleanupWorld for Map_UnderwaterGame, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-12.24.00:782][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-12.24.00:797][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-12.24.00:814][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-12.24.00:916][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-12.24.00:916][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.05-12.24.00:916][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.05-12.24.00:918][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.05-12.24.00:937][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.03.05-12.24.00:983][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.05-12.24.15:031][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.24.15:349][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.05-12.24.15:359][801]LogSavePackage: Moving output files for package: /Game/Level/Map_UnderwaterGame
+[2025.03.05-12.24.15:360][801]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/Map_UnderwaterGameA059F7D0426369B3211E6CBECA37A049.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Level/Map_UnderwaterGame.umap'
+[2025.03.05-12.24.15:373][801]LogFileHelpers: Saving map 'Map_UnderwaterGame' took 0.108
+[2025.03.05-12.24.15:418][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 386.839 ms (total: 12.1 sec)
+[2025.03.05-12.24.15:543][801]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.24.15:544][801]LogContentValidation: Enabled validators:
+[2025.03.05-12.24.15:544][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.24.15:544][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.24.15:544][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.24.15:544][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.24.15:544][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.24.15:544][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.24.15:544][801]AssetCheck: /Game/Level/Map_UnderwaterGame Validating asset
+[2025.03.05-12.24.15:718][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-12.24.15:949][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.05-12.24.15:957][810]LogSavePackage: Moving output files for package: /Game/Level/Map_UnderwaterGame
+[2025.03.05-12.24.15:958][810]LogSavePackage: Moving '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Saved/Map_UnderwaterGame275E3F414EA432C5AE5208A8F4689A98.tmp' to '../../../../../../Users/audun/OneDrive/Dokumenter/GitHub/UnrealGhostFishingGame/Content/Level/Map_UnderwaterGame.umap'
+[2025.03.05-12.24.15:970][810]LogFileHelpers: Saving map 'Map_UnderwaterGame' took 0.085
+[2025.03.05-12.24.15:995][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 278.104 ms (total: 12.3 sec)
+[2025.03.05-12.24.16:122][810]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-12.24.16:123][810]LogContentValidation: Enabled validators:
+[2025.03.05-12.24.16:123][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-12.24.16:123][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-12.24.16:123][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-12.24.16:123][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-12.24.16:123][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-12.24.16:123][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-12.24.16:123][810]AssetCheck: /Game/Level/Map_UnderwaterGame Validating asset
+[2025.03.05-12.24.17:081][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-12.24.17:090][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-12.24.17:090][858]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Map_UnderwaterGame
+[2025.03.05-12.24.17:093][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002327s)
+[2025.03.05-12.24.17:093][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Map_UnderwaterGame.Map_UnderwaterGame to /Game/Level/UEDPIE_0_Map_UnderwaterGame.Map_UnderwaterGame (0.002365s)
+[2025.03.05-12.24.17:122][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.05-12.24.17:123][858]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_UnderwaterGame
+[2025.03.05-12.24.17:125][858]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2025.03.05-12.24.17:125][858]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.03.05-12.24.17:125][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-12.24.17:125][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-12.24.17:125][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-12.24.17:125][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-12.24.17:125][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.05-12.24.17:125][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-12.24.17:125][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.05-12.24.17:125][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-12.24.17:125][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-12.24.17:125][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-12.24.17:125][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-12.24.17:127][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-12.24.17:315][858]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-12.24.17:316][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-12.24.17:317][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-12.24.17:317][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-12.24.17:319][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.03.05-12.24.17:319][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.03.05-12.24.17:331][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.03.05-12.24.17:331][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.03.05-12.24.17:331][858]LogInit: FAudioDevice initialized with ID 22.
+[2025.03.05-12.24.17:331][858]LogAudio: Display: Audio Device (ID: 22) registered with world 'Map_UnderwaterGame'.
+[2025.03.05-12.24.17:331][858]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.05-12.24.17:343][858]LogLoad: Game class is 'GM_SideScroller_C'
+[2025.03.05-12.24.17:349][858]LogWorld: Bringing World /Game/Level/UEDPIE_0_Map_UnderwaterGame.Map_UnderwaterGame up for play (max tick rate 60) at 2025.03.05-13.24.17
+[2025.03.05-12.24.17:352][858]LogWorld: Bringing up level for play took: 0.007667
+[2025.03.05-12.24.17:359][858]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.03.05-12.24.17:373][858]PIE: Server logged in
+[2025.03.05-12.24.17:378][858]PIE: Play in editor total start time 0,288 seconds.
+[2025.03.05-12.24.17:400][858]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'BatteryTextures' of length 8 in '/Game/UI/W_Battery.W_Battery_C'!
+[2025.03.05-12.24.17:400][858]LogScript: Warning: Script Msg called by: W_Battery_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.WB_HUD_C_0.WidgetTree_0.W_Battery
+[2025.03.05-12.24.19:952][996]LogBlueprintUserMessages: [BP_penger_C_1] COIN COLLECTED
+[2025.03.05-12.24.24:241][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-12.24.24:241][249]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Map_UnderwaterGame
+[2025.03.05-12.24.24:242][249]LogWorld: UWorld::CleanupWorld for Map_UnderwaterGame, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-12.24.24:243][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-12.24.24:259][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-12.24.24:272][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-12.24.24:383][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-12.24.24:383][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.05-12.24.24:383][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.05-12.24.24:386][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.05-12.24.24:399][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.03.05-12.24.24:444][250]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.03.05-12.24.25:779][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-12.24.25:790][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-12.24.25:829][326]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Map_UnderwaterGame
+[2025.03.05-12.24.25:841][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012712s)
+[2025.03.05-12.24.25:842][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Map_UnderwaterGame.Map_UnderwaterGame to /Game/Level/UEDPIE_0_Map_UnderwaterGame.Map_UnderwaterGame (0.012917s)
+[2025.03.05-12.24.25:867][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.05-12.24.25:868][326]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_UnderwaterGame
+[2025.03.05-12.24.25:870][326]LogPlayLevel: PIE: World Init took: (0.001616s)
+[2025.03.05-12.24.25:871][326]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.03.05-12.24.25:871][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-12.24.25:871][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-12.24.25:871][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-12.24.25:871][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-12.24.25:871][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.05-12.24.25:871][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-12.24.25:871][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.05-12.24.25:871][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-12.24.25:871][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-12.24.25:871][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-12.24.25:871][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-12.24.25:874][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-12.24.26:048][326]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-12.24.26:048][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-12.24.26:048][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-12.24.26:048][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-12.24.26:049][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.03.05-12.24.26:049][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.03.05-12.24.26:052][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.03.05-12.24.26:052][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.03.05-12.24.26:052][326]LogInit: FAudioDevice initialized with ID 23.
+[2025.03.05-12.24.26:052][326]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map_UnderwaterGame'.
+[2025.03.05-12.24.26:052][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.05-12.24.26:055][326]LogLoad: Game class is 'GM_SideScroller_C'
+[2025.03.05-12.24.26:057][326]LogWorld: Bringing World /Game/Level/UEDPIE_0_Map_UnderwaterGame.Map_UnderwaterGame up for play (max tick rate 60) at 2025.03.05-13.24.26
+[2025.03.05-12.24.26:058][326]LogWorld: Bringing up level for play took: 0.001490
+[2025.03.05-12.24.26:061][326]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.03.05-12.24.26:067][326]PIE: Server logged in
+[2025.03.05-12.24.26:067][326]PIE: Play in editor total start time 0,278 seconds.
+[2025.03.05-12.24.26:071][326]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'BatteryTextures' of length 8 in '/Game/UI/W_Battery.W_Battery_C'!
+[2025.03.05-12.24.26:071][326]LogScript: Warning: Script Msg called by: W_Battery_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.WB_HUD_C_0.WidgetTree_0.W_Battery
+[2025.03.05-12.24.29:421][516]LogBlueprintUserMessages: [BP_penger_C_1] COIN COLLECTED
+[2025.03.05-12.24.34:331][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-12.24.34:332][806]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Map_UnderwaterGame
+[2025.03.05-12.24.34:332][806]LogWorld: UWorld::CleanupWorld for Map_UnderwaterGame, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-12.24.34:334][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-12.24.34:352][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-12.24.34:363][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-12.24.34:463][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-12.24.34:463][806]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.05-12.24.34:464][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.05-12.24.34:470][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.05-12.24.34:513][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2025.03.05-12.24.34:555][807]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.03.05-12.26.00:544][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7013.799316
+[2025.03.05-12.26.00:725][941]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-12.26.00:725][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7013.964355, Update Interval: 317.084259
+[2025.03.05-12.27.35:860][617]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: fdc...34c
+[2025.03.05-12.27.35:860][617]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.554e+07
+[2025.03.05-12.27.36:062][629]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: fdc...34c Access[Expires: 2025.03.05-14.27.35 Remaining: 7200.95] Refresh[Expires: 2025-09-01T09:47:33.164Z Remaining: 15542398.16] State: Valid
